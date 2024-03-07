@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cerita-react/static/css/main.426e422c.css",
+    "main.js": "/cerita-react/static/js/main.8a37022d.js",
+    "static/js/453.6f585ae7.chunk.js": "/cerita-react/static/js/453.6f585ae7.chunk.js",
+    "static/media/bromo1.jpg": "/cerita-react/static/media/bromo1.46542462050acf2b85c3.jpg",
+    "static/media/hero1.png": "/cerita-react/static/media/hero1.a1ff5e862841022739a9.png",
+    "static/media/bromo2.jpg": "/cerita-react/static/media/bromo2.71757742621aa746d4c1.jpg",
+    "static/media/bromo4.jpg": "/cerita-react/static/media/bromo4.baf28d99f0be265d990c.jpg",
+    "static/media/tumpaksewu.jpg": "/cerita-react/static/media/tumpaksewu.f699b1d37056d17d512c.jpg",
+    "static/media/tumpaksewu1.jpg": "/cerita-react/static/media/tumpaksewu1.f699b1d37056d17d512c.jpg",
+    "static/media/ijen1.jpg": "/cerita-react/static/media/ijen1.bfa70a62336763be73bf.jpg",
+    "static/media/icon.png": "/cerita-react/static/media/icon.e333b2a581a4af53374e.png",
+    "static/media/ceritakru2.jpg": "/cerita-react/static/media/ceritakru2.6aa49fb11411ce340489.jpg",
+    "static/media/baluran.jpg": "/cerita-react/static/media/baluran.287a19a069f87f01a72f.jpg",
+    "index.html": "/cerita-react/index.html",
+    "main.426e422c.css.map": "/cerita-react/static/css/main.426e422c.css.map",
+    "main.8a37022d.js.map": "/cerita-react/static/js/main.8a37022d.js.map",
+    "453.6f585ae7.chunk.js.map": "/cerita-react/static/js/453.6f585ae7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426e422c.css",
+    "static/js/main.8a37022d.js"
+  ]
+}
